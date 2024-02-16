@@ -6,7 +6,7 @@
         ;; konstellate/components {:git/url "https://github.com/containership/konstellate-components"
         ;;                         :sha "99517a1f362b15605332800482bec7320dcf3799"}
         recurrent {:git/url "https://github.com/SiwonP/recurrent.git"
-                   :sha "d4eed540de0e7c198a8c9f216df034147cf14e81"}
+                   :sha "93dbedc684b62779489b7addb7b2854a339e43eb"}
         ulmus {:git/url "https://github.com/SiwonP/ulmus.git"
                :sha "e5e71f231d9db0347a84bad859fdda20d1726f29"}}
  :paths ["src" "target" "resources"]}
