@@ -8,6 +8,6 @@
         recurrent {:git/url "https://github.com/SiwonP/recurrent.git"
                    :sha "93dbedc684b62779489b7addb7b2854a339e43eb"}
         ulmus {:git/url "https://github.com/SiwonP/ulmus.git"
-               :sha "e5e71f231d9db0347a84bad859fdda20d1726f29"}}
+               :sha "996a3433a8c4c991fdc4e9fdf1dbb8272f85f0f7"}}
  :paths ["src" "target" "resources"]}
 
